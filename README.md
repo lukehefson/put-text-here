@@ -1,6 +1,7 @@
 https://twitter.com/lukehefson/status/1225751874462240775
 
-> Do you sometimes need the quickest text scratchpad ever? No save. No features other than just ‘put text here’. Pro Tip! Paste:
+> Do you sometimes need the quickest text scratchpad ever? No save. No features other than just ‘put text here’.
+> Pro Tip! Paste:
 > 
 > `data:text/html, <html contenteditable>`
 > 
